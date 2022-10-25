@@ -3,7 +3,7 @@
 
 ### 使用
 SYNOPSIS
-    main.py <flags>
+    main.py  \<flags\>
 
 FLAGS
     --phone=PHONE
@@ -16,6 +16,6 @@ FLAGS
         Default: ''
     --price=PRICE
         Default: ''
-  
+
   Example:
     python3 main.py --phone=18888888888 --code=000000 --keyword=白日鼠白胜 --price=3850 run
